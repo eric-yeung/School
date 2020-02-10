@@ -1,2 +1,2 @@
 # School
-Just my school committed online
+Just my schoolwork committed online
